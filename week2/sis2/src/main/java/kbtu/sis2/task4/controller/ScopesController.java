@@ -32,10 +32,10 @@ public class ScopesController {
     @RequestMapping("/scopes/session")
     public String getSessionScopeMessage(final Model model) {
         LOG.info("Previous Message: " + sessionScopedBean.getMessage());
+        LOG.info("Address: " + System.identityHashCode(model));
         sessionScopedBean.setMessage("Session Scope Message!");
         LOG.info("Current Message: " + sessionScopedBean.getMessage());
         return "Session scope example";
-
     }
 
     @RequestMapping("/scopes/application")
@@ -44,6 +44,5 @@ public class ScopesController {
         applicationScopedBean.setMessage("Application Scope Message!");
         LOG.info("Current Message: " + applicationScopedBean.getMessage());
         return "Application scope example";
-
     }
 }
