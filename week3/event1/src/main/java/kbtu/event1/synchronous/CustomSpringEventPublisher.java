@@ -1,20 +1,27 @@
 package kbtu.event1.synchronous;
 
-import lombok.AllArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.context.ApplicationEvent;
+import kbtu.event1.asynchronous.AsyncCustomEvent;
 import org.springframework.context.ApplicationEventPublisher;
 import org.springframework.stereotype.Component;
 
 @Component
-@AllArgsConstructor
 public class CustomSpringEventPublisher {
 
-    private final ApplicationEventPublisher applicationEventPublisher;
+    private final ApplicationEventPublisher eventPublisher;
 
-    public void publishCustomEvent(final String message) {
-        System.out.println("Publishing custom event");
-        CustomSpringEvent customSpringEvent = new CustomSpringEvent(this, message);
-        applicationEventPublisher.publishEvent(customSpringEvent);
+    public CustomSpringEventPublisher(ApplicationEventPublisher eventPublisher) {
+        this.eventPublisher = eventPublisher;
+    }
+
+    public void publishCustomEvent(String message) {
+        System.out.println("Publishing synchronous custom event. ");
+        CustomSpringEvent customEvent = new CustomSpringEvent(this, message);
+        eventPublisher.publishEvent(customEvent);
+    }
+
+    public void publishAsyncCustomEvent(String message) {
+        System.out.println("Publishing asynchronous custom event. ");
+        AsyncCustomEvent asyncCustomEvent = new AsyncCustomEvent(this, message);
+        eventPublisher.publishEvent(asyncCustomEvent);
     }
 }
