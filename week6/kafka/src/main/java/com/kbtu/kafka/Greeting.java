@@ -1,4 +1,4 @@
-package kbtu.kafka;
+package com.kbtu.kafka;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

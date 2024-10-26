@@ -1,4 +1,4 @@
-package kbtu.kafka;
+package com.kbtu.kafka;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package kbtu.kafka;
+package com.kbtu.kafka;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
@@ -36,7 +36,7 @@ public class KafkaApplicationMultiListener {
         private String multiTypeTopicName;
 
         public void sendMessages() {
-            multiTypeKafkaTemplate.send(multiTypeTopicName, new Greeting("Greetings", "World!"));
+            multiTypeKafkaTemplate.send(multiTypeTopicName, new Greeting("Greetings", "World kbtu!"));
             multiTypeKafkaTemplate.send(multiTypeTopicName, new Farewell("Farewell", 25));
             multiTypeKafkaTemplate.send(multiTypeTopicName, "Simple string message");
         }

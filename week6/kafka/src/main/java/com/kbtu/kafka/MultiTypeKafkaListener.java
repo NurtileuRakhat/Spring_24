@@ -1,4 +1,4 @@
-package kbtu.kafka;
+package com.kbtu.kafka;
 
 import org.springframework.kafka.annotation.KafkaHandler;
 import org.springframework.kafka.annotation.KafkaListener;
