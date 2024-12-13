@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0d2e40c7-f74e-4814-92b9-ca140d91f720" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../week9/part1/SpringJwtAuthExample/src/main/java/net/codejava/ApplicationSecurity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week9/part1/SpringJwtAuthExample/src/main/java/net/codejava/jwt/JwtTokenFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week9/part1/SpringJwtAuthExample/src/main/java/net/codejava/jwt/JwtTokenUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week9/part1/SpringJwtAuthExample/src/main/java/net/codejava/user/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week9/part1/SpringJwtAuthExample/src/main/java/net/codejava/user/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week9/part1/SpringJwtAuthExample/src/main/java/net/codejava/user/api/AuthApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week9/part1/SpringJwtAuthExample/src/main/java/net/codejava/user/api/AuthRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week9/part1/SpringJwtAuthExample/src/main/java/net/codejava/user/api/AuthResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week9/part1/auth/src/main/java/kbtu/auth/ApplicationSecurity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week9/part1/auth/src/main/java/kbtu/auth/product/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week9/part1/auth/src/main/java/kbtu/auth/product/ProductApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week9/part1/auth/src/main/java/kbtu/auth/product/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week9/part2/SpringJwtAuthorization/src/main/java/net/codejava/ApplicationSecurity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week9/part2/SpringJwtAuthorization/src/main/java/net/codejava/SpringJwtAuthExampleApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week9/part2/SpringJwtAuthorization/src/main/java/net/codejava/jwt/JwtTokenFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week9/part2/SpringJwtAuthorization/src/main/java/net/codejava/jwt/JwtTokenUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week9/part2/SpringJwtAuthorization/src/main/java/net/codejava/product/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week9/part2/SpringJwtAuthorization/src/main/java/net/codejava/product/ProductApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week9/part2/SpringJwtAuthorization/src/main/java/net/codejava/product/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week9/part2/SpringJwtAuthorization/src/main/java/net/codejava/user/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week9/part2/SpringJwtAuthorization/src/main/java/net/codejava/user/RoleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week9/part2/SpringJwtAuthorization/src/main/java/net/codejava/user/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week9/part2/SpringJwtAuthorization/src/main/java/net/codejava/user/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week9/part2/SpringJwtAuthorization/src/main/java/net/codejava/user/api/AuthApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week9/part2/SpringJwtAuthorization/src/main/java/net/codejava/user/api/AuthRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week9/part2/SpringJwtAuthorization/src/main/java/net/codejava/user/api/AuthResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week9/part2/SpringJwtAuthorization/src/main/java/net/codejava/user/api/UserApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week9/part2/SpringJwtAuthorization/src/main/java/net/codejava/user/api/UserDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week9/part2/SpringJwtAuthorization/src/main/java/net/codejava/user/api/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week9/part1/SpringJwtAuthExample/src/main/java/net/codejava/user/api/UserRepositoryTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="producing-web-service" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;NurtileuRakhat&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/NurtileuRakhat/Spring_24&quot;,
+    &quot;accountId&quot;: &quot;b39eac1e-3b27-448e-97f8-9dccaa14a56c&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2pXtfZm6hu2QqVuhLAJujYQYqVU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build complete.executor": "Run",
+    "JUnit.ProducingWebServiceApplicationIntegrationTests.executor": "Run",
+    "Maven.producing-web-service-complete [clean].executor": "Run",
+    "Maven.producing-web-service-complete [install].executor": "Run",
+    "Maven.producing-web-service-complete [org.apache.maven.plugins:maven-clean-plugin:3.3.2:clean].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.ProducingWebServiceApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/kbtu_5semestr/spring/week8/getting-started-app",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Spring Boot.ProducingWebServiceApplication">
+    <configuration name="ProducingWebServiceApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="producing-web-service.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.producingwebservice.ProducingWebServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducingWebServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="producing-web-service-complete" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.producingwebservice.ProducingWebServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.24807.4" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.24807.4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d2e40c7-f74e-4814-92b9-ca140d91f720" name="Changes" comment="" />
+      <created>1732924352865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732924352865</updated>
+      <workItem from="1732924354034" duration="673000" />
+      <workItem from="1732925090368" duration="9000" />
+      <workItem from="1732925954340" duration="954000" />
+      <workItem from="1732927668057" duration="16000" />
+      <workItem from="1732929014267" duration="11000" />
+      <workItem from="1732954295240" duration="548000" />
+      <workItem from="1733506714707" duration="161000" />
+      <workItem from="1733551499894" duration="394000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

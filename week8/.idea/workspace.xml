@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="48887f39-d9f4-4e02-afae-b952d2dc39c3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/getting-started-app/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getting-started-app/compose.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getting-started-app/greeting.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9/part1/SpringJwtAuthExample/src/main/java/net/codejava/ApplicationSecurity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9/part1/SpringJwtAuthExample/src/main/java/net/codejava/jwt/JwtTokenFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9/part1/SpringJwtAuthExample/src/main/java/net/codejava/jwt/JwtTokenUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9/part1/SpringJwtAuthExample/src/main/java/net/codejava/user/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9/part1/SpringJwtAuthExample/src/main/java/net/codejava/user/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9/part1/SpringJwtAuthExample/src/main/java/net/codejava/user/api/AuthApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9/part1/SpringJwtAuthExample/src/main/java/net/codejava/user/api/AuthRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9/part1/SpringJwtAuthExample/src/main/java/net/codejava/user/api/AuthResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9/part1/auth/src/main/java/kbtu/auth/ApplicationSecurity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9/part1/auth/src/main/java/kbtu/auth/product/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9/part1/auth/src/main/java/kbtu/auth/product/ProductApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9/part1/auth/src/main/java/kbtu/auth/product/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9/part2/SpringJwtAuthorization/src/main/java/net/codejava/ApplicationSecurity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9/part2/SpringJwtAuthorization/src/main/java/net/codejava/SpringJwtAuthExampleApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9/part2/SpringJwtAuthorization/src/main/java/net/codejava/jwt/JwtTokenFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9/part2/SpringJwtAuthorization/src/main/java/net/codejava/jwt/JwtTokenUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9/part2/SpringJwtAuthorization/src/main/java/net/codejava/product/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9/part2/SpringJwtAuthorization/src/main/java/net/codejava/product/ProductApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9/part2/SpringJwtAuthorization/src/main/java/net/codejava/product/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9/part2/SpringJwtAuthorization/src/main/java/net/codejava/user/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9/part2/SpringJwtAuthorization/src/main/java/net/codejava/user/RoleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9/part2/SpringJwtAuthorization/src/main/java/net/codejava/user/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9/part2/SpringJwtAuthorization/src/main/java/net/codejava/user/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9/part2/SpringJwtAuthorization/src/main/java/net/codejava/user/api/AuthApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9/part2/SpringJwtAuthorization/src/main/java/net/codejava/user/api/AuthRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9/part2/SpringJwtAuthorization/src/main/java/net/codejava/user/api/AuthResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9/part2/SpringJwtAuthorization/src/main/java/net/codejava/user/api/UserApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9/part2/SpringJwtAuthorization/src/main/java/net/codejava/user/api/UserDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9/part2/SpringJwtAuthorization/src/main/java/net/codejava/user/api/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/getting-started-app/src/static/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/getting-started-app/src/static/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week9/part1/SpringJwtAuthExample/src/main/java/net/codejava/user/api/UserRepositoryTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/getting-started-app" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "NurtileuRakhat"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/NurtileuRakhat/Spring_24",
+    "accountId": "b39eac1e-3b27-448e-97f8-9dccaa14a56c"
+  }
+}]]></component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2psSd6twk7pETdJqAxqWUN1eSgY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Docker.getting-started-app/compose.yaml: Compose Deployment.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/kbtu_5semestr/spring/week9/part2/SpringJwtAuthorization",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml" />
+      <method v="2" />
+    </configuration>
+    <configuration name="getting-started-app/compose.yaml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="getting-started-app/compose.yaml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.getting-started-app/compose.yaml: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.24807.4" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.24807.4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48887f39-d9f4-4e02-afae-b952d2dc39c3" name="Changes" comment="" />
+      <created>1733553373576</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733553373576</updated>
+      <workItem from="1733553374696" duration="5328000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
