@@ -19,6 +19,7 @@ import org.springframework.security.web.authentication.UsernamePasswordAuthentic
 import net.codejava.jwt.JwtTokenFilter;
 import net.codejava.user.UserRepository;
 
+
 @EnableWebSecurity(debug = true)
 @EnableGlobalMethodSecurity(prePostEnabled = true, securedEnabled = true, jsr250Enabled = true)
 public class ApplicationSecurity extends WebSecurityConfigurerAdapter {
